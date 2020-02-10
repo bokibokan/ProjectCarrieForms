@@ -37,7 +37,7 @@
             "gender": "Male",
             "telephone": "223305"
         },
-          {
+        {
             "id": 3,
             "name": "Bojan",
             "surname": "Gjorgjievski",
@@ -50,7 +50,7 @@
             "telephone": "223305"
             
         },
-          {
+        {
             "id": 4,
             "name": "Bojan",
             "surname": "Gjorgjievski",
@@ -63,7 +63,7 @@
             "telephone": "223305"
             
         },
-          {
+        {
             "id": 5,
             "name": "Bojan",
             "surname": "Gjorgjievski",
@@ -76,7 +76,7 @@
             "telephone": "223305"
             
         },
-          {
+        {
             "id": 6,
             "name": "Bojan",
             "surname": "Gjorgjievski",
@@ -89,7 +89,7 @@
             "telephone": "223305"
             
         },
-          {
+        {
             "id": 7,
             "name": "Bojan",
             "surname": "Gjorgjievski",
@@ -102,7 +102,7 @@
             "telephone": "223305"
             
         },
-          {
+         {
             "id": 8,
             "name": "Bojan",
             "surname": "Gjorgjievski",
@@ -115,7 +115,7 @@
             "telephone": "223305"
             
         },
-          {
+        {
             "id": 9,
             "name": "Bojan",
             "surname": "Gjorgjievski",
@@ -128,7 +128,7 @@
             "telephone": "223305"
             
         },
-          {
+        {
             "id": 10,
             "name": "Bojan",
             "surname": "Gjorgjievski",
@@ -140,6 +140,6 @@
             "gender": "Male",
             "telephone": "223305"
             
-        },
+        }
     ]
 }
